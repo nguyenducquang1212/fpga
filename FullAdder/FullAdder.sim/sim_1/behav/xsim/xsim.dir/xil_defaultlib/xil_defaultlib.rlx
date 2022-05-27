@@ -1,0 +1,8 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/quangnd12/EmbeddedSystem/fpga/FullAdder/FullAdder.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+/home/quangnd12/EmbeddedSystem/fpga/fullAdder.v,1653142450,verilog,,/home/quangnd12/EmbeddedSystem/fpga/fullAdder2Bit.v,,fullAdder,,,,,,,,
+/home/quangnd12/EmbeddedSystem/fpga/fullAdder2Bit.v,1653143645,verilog,,/home/quangnd12/EmbeddedSystem/fpga/fullAdder_tb.v,,fullAdder2Bit,,,,,,,,
+/home/quangnd12/EmbeddedSystem/fpga/fullAdder_tb.v,1653143418,verilog,,,,fullAdder_tb,,,,,,,,
